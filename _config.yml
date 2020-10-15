@@ -1,11 +1,11 @@
 # Site Settings
 title: Mere Blog Theme
 tagline: Mere Blog Theme
-email: your-email@domain.com
+email: hgk172000@gmail.com
 description: >
   The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
-baseurl: "/mere-blog-theme"
-url: "https://www.csrhymes.com"
+baseurl: ""
+url: "https://www.jeewonheo.github.io"
 permalink: pretty
 
 paginate: 6
