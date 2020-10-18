@@ -1,5 +1,5 @@
 ---
-title: "전원식바보"
+title: "test"
 date: 2020-10-04 08:26:28 -0400
 categories: jekyll update
 ---
